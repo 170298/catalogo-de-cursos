@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Cat\u00e1logo de Cursos",
+    "slug": "catalogo-de-cursos",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#123B70"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
